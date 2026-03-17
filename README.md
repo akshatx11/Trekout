@@ -26,5 +26,16 @@ It provides a simple and clean interface where students and travel enthusiasts c
 - MySQL  
 
 ---
+---
+
+## 📌 Important Notes
+
+- The bus search feature is currently not functional as this was our initial project.  
+- To handle this, we implemented **quick routes** for easier ticket booking.  
+- Student registration requires a **unique Student ID**.  
+- The system prevents signup if the same Student ID is used again.  
+- This project was built as a beginner-level application and may have some limitations.  
+
+---
 
 ✨ *Made for students. Built for explorers.*
